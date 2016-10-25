@@ -1,7 +1,9 @@
-package com.aubo.lmn.coolweather;
+package com.aubo.lmn.coolweather.activity;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.aubo.lmn.coolweather.R;
 
 public class ChooseAreaActivity extends Activity {
 
